@@ -1,0 +1,14 @@
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\bin\Debug\netcoreapp2.2\WebApiJenkinsTest.deps.json
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\bin\Debug\netcoreapp2.2\WebApiJenkinsTest.runtimeconfig.json
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\bin\Debug\netcoreapp2.2\WebApiJenkinsTest.runtimeconfig.dev.json
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\bin\Debug\netcoreapp2.2\WebApiJenkinsTest.dll
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\bin\Debug\netcoreapp2.2\WebApiJenkinsTest.pdb
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\obj\Debug\netcoreapp2.2\WebApiJenkinsTest.csprojAssemblyReference.cache
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\obj\Debug\netcoreapp2.2\WebApiJenkinsTest.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\obj\Debug\netcoreapp2.2\WebApiJenkinsTest.RazorAssemblyInfo.cache
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\obj\Debug\netcoreapp2.2\WebApiJenkinsTest.RazorAssemblyInfo.cs
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\obj\Debug\netcoreapp2.2\WebApiJenkinsTest.AssemblyInfoInputs.cache
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\obj\Debug\netcoreapp2.2\WebApiJenkinsTest.AssemblyInfo.cs
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\obj\Debug\netcoreapp2.2\WebApiJenkinsTest.RazorTargetAssemblyInfo.cache
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\obj\Debug\netcoreapp2.2\WebApiJenkinsTest.dll
+C:\Users\Dave\source\Workspaces\netcoreWebApiJenkins\WebApiJenkinsTest\obj\Debug\netcoreapp2.2\WebApiJenkinsTest.pdb
