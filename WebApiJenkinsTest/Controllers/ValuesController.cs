@@ -14,7 +14,7 @@ namespace WebApiJenkinsTest.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2", "value3","valor4", "valor5" };
+            return new string[] { "value1", "value2", "value3","valor4", "valor5", "valor6" };
         }
 
         // GET api/values/5
